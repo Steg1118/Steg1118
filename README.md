@@ -10,15 +10,14 @@
 
 ## About Me
 
- **Skills:** Unity • C# • C++ • Java • JavaScript • Python • *and more*   
- **Interests:** Game development, interactive systems, and creative programming projects.
+**Skills:** Unity • C# • C++ • Java • JavaScript • Python • *and more*  
+**Interests:** Game development, interactive systems, and creative programming projects.
 
 ---
 
 ### 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Steg1118)
-[![itch.io](https://img.shields.io/badge/itch.io-fa5c5c?logo=itchdotio&logoColor=fff)](https://itch.io/profile/Steg1118)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seantegrant/)
-[![Website](https://steg1118.github.io/web)
-
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Steg1118)  
+[![itch.io](https://img.shields.io/badge/itch.io-fa5c5c?logo=itchdotio&logoColor=fff)](https://itch.io/profile/Steg1118)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seantegrant/)  
+[![Website](https://img.shields.io/badge/Website-0a0?logo=firefox&logoColor=fff)](https://steg1118.github.io/web/)  
 <br clear="both" />
