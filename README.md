@@ -1,6 +1,6 @@
 # Steg1118 - Sean Grant - 張尚華
 
-**Junior undergrad** who loves building games and learning full-stack web dev.
+**Junior undergrad** who loves building games.
 
 ---
 
