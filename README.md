@@ -44,8 +44,8 @@ Email: [seantegrant@gmail.com](mailto:seantegrant@gmail.com)
 
 ## Stats
 <p align="left">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Steg1118&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Steg1118's GitHub stats" />
-  <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steg1118&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Steg1118&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="StegStats" />
+  <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steg1118&layout=compact&theme=tokyonight&hide_border=true" alt="Steg Languages" />
 </p>
 <br clear="both" />
 
