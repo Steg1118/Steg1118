@@ -1,6 +1,6 @@
 # Steg1118 - Sean Grant - 張尚華
 
-**human
+** w human
 
 ---
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Steg1118&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="StegStats" />
@@ -10,7 +10,7 @@
 
 ## About Me
 
-**Skills:** Unity • C# • C++ • Java • JavaScript • Python • *and more*  
+**Skills:** Unity • C# • C++ • C • Java • JavaScript • Python • *and more*  
 **Interests:** Game development, interactive systems, and creative programming projects.
 
 ---
