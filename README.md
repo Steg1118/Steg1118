@@ -1,6 +1,5 @@
 # Sean “Steg1118” Grant — 張尚華
 Game developer • Interactive systems • Creative programmer  
-_Born to be a chud, Forced to be a programmer_
 
 <p align="center">
   <img src="https://github.com/Steg1118.png" width="120" height="120" alt="Sean Grant" style="border-radius:50%; object-fit:cover; border:4px solid #eaeaea; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
@@ -38,10 +37,6 @@ _Born to be a chud, Forced to be a programmer_
 
 ## About
 I build playful interactive systems and indie games — mostly using Unity and C#. I love turning weird ideas into small playable experiences, prototyping mechanics, and exploring procedural/creative tools.
-
-- Primary: Unity, C#
-- Other: C, C++, Java, JavaScript, Python
-- Interests: gameplay prototyping, procedural content, tooling, creative coding
 
 Email: [seantegrant@gmail.com](mailto:seantegrant@gmail.com)
 
