@@ -1,9 +1,5 @@
-# Sean “Steg1118” Grant — 張尚華
-Game developer • Interactive systems • Creative programmer  
+# Sean Grant — 張尚華
 
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/959619010327089233/1415907855340666901/image001.gif?ex=698219b3&is=6980c833&hm=6a0888a903d50cad7e7ca3990fc7e95d6892d8d73e59d00c15935245c9590cc5&=&width=296&height=296" width="120" height="120" alt="Steg" style="border-radius:50%; object-fit:cover; border:4px solid #eaeaea; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
-</p>
 
 <p align="center">
   <a href="https://github.com/Steg1118">
